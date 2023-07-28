@@ -1,5 +1,5 @@
 
-<img align="center" width="1080" src="https://github.com/sonav99/sonav99/blob/main/github-header-image%20(1).png">
+<img align="center" width="1080" src="[https://github.com/sonav99/sonav99/blob/main/github-header-image%20(1).png](https://github.com/sonav99/sonav99/blob/main/github-header-image%20(3).png)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonav99&label=Profile%20views&color=0e75b6&style=flat" alt="sonav99" /> </p>
 
 
