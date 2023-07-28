@@ -1,5 +1,5 @@
 
-<img align="center" width="1080" src="[https://github.com/sonav99/sonav99/blob/main/github-header-image%20(1).png](https://github.com/sonav99/sonav99/blob/main/github-header-image%20(3).png)">
+<img align="center" width="1080" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1690547706~exp=1690548306~hmac=2a6ffcf8f5b5b748fdb7225043f9729467499b8e298e071561cddb81bdd64a09">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonav99&label=Profile%20views&color=0e75b6&style=flat" alt="sonav99" /> </p>
 
 
